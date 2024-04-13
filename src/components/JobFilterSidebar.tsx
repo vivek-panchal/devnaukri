@@ -6,7 +6,8 @@ import FormSubmitButton from "./FormSubmitButton";
 import { Input } from "./ui/input";
 import { Label } from "./ui/label";
 import Select from "./ui/select";
-
+import Image from 'next/image'
+import logo from '@/assets/QR.png'
 async function filterJobs(formData: FormData) {
   "use server";
 
@@ -95,6 +96,14 @@ export default async function JobFilterSidebar({
             <Label htmlFor="remote">Remote jobs</Label>
           </div>
           <FormSubmitButton className="w-full">Filter jobs</FormSubmitButton>
+          <h1 className="text-black font-bold text-center ">Donate Us</h1>
+          <Image
+          src={logo}
+          width={500}
+          height={500}
+          alt="Picture of the author"
+          />
+          <h1 className="text-black text-center ">Help Us to manage this portal</h1>
         </div>
       </form>
     </aside>
