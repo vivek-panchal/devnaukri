@@ -20,6 +20,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "date-fns": "^3.6.0",
+    "draft-js": "^0.11.7",
     "lucide-react": "^0.367.0",
     "markdown-draft-js": "^2.4.0",
     "nanoid": "^5.0.7",

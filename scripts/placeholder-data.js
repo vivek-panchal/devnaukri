@@ -1,108 +1,78 @@
 const placeholderJobs = [
   {
-    title: "Full-Stack Developer at Stripe",
-    type: "Full-time",
-    companyName: "Stripe",
-    locationType: "Remote",
-    location: "San Francisco, California, United States",
-    applicationEmail: "apply@stripe.com",
-    applicationUrl: "https://stripe.com/apply",
+    title: "TESTING INTERN at Harman ( 2024/2025)",
+    type: "Internship",
+    companyName: "Harman",
+    locationType: "On-site",
+    location: "Bangalore",
+    applicationEmail: "",
+    applicationUrl: "https://jobs.harman.com/en_US/careers/JobDetail/Testing-Intern/19953",
     slug: "full-stack-developer-at-stripe-1",
-    salary: 150000,
+    salary: 40000,
     approved: true,
     description: `
 **About Stripe**
 
-Stripe is a global technology company that builds economic infrastructure for the internet. Our suite of products and services are designed to power commerce for online businesses of all sizes. At Stripe, we're looking for passionate, creative, and innovative developers to help build the next generation of payment platforms.
+HARMAN is proud to be an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
 
 **Job Description**
 
-As a Full-Stack Developer at Stripe, you will be working on cutting-edge technology to build and maintain scalable, efficient, and reliable software solutions. You'll collaborate with a team of talented engineers, designers, and product managers to deliver exceptional user experiences.
+-Should have strong knowledge on Computer.
+-Need to have knowledge related to motherboard and good understanding with electronic components.
+-Knowledge of windows is a must.
+-Must have Knowledge on testing.
+-Ability to work independently and proactively.
+-Good problem analysis and solving skills coupled with a strong drive to learn and teach other
 
-**Key Responsibilities**
 
-- Design, develop, test, deploy, maintain, and improve software across the stack.
-- Work closely with other engineering teams to integrate and develop new features.
-- Contribute to the full software development lifecycle, including requirements analysis, architecture, design, coding, testing, and deployment.
-- Optimize applications for maximum speed and scalability.
-- Participate in code reviews and mentor junior developers.
-
-**Qualifications**
-
-- Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
-- 3+ years of experience in full-stack development.
-- Proficiency in one or more general-purpose programming languages including but not limited to: Ruby, Java, JavaScript, Python.
-- Experience with front-end technologies such as React, Angular, or Vue.js.
-- Familiarity with server-side frameworks like Ruby on Rails, Django, or Node.js.
-- Knowledge of database technologies such as MySQL, PostgreSQL, and MongoDB.
-- Strong understanding of web technologies and architectures.
-- Excellent problem-solving skills and attention to detail.
-
-**Benefits**
-
-- Competitive salary and equity package.
-- Health, dental, and vision insurance.
-- Generous vacation and parental leave policies.
-- 401(k) plan with employer match.
-- Flexible work arrangements.
-- Continuous learning and development opportunities.
-
-Stripe is an equal opportunity employer. We value diversity and are committed to creating an inclusive environment for all employees.
 `,
   },
   {
-    title: "Full-Stack Developer at Vercel",
+    title: "Software Engineer, Associate",
     type: "Full-time",
-    companyName: "Vercel",
-    locationType: "Hybrid",
-    location: "San Francisco, California, United States",
+    companyName: "infor",
+    locationType: "On-site",
+    location: "Hyderabad, Telangana, India",
     applicationEmail: "apply@vercel.com",
-    applicationUrl: "https://vercel.com/apply",
+    applicationUrl: "https://careers.infor.com/en_US/careers/JobDetail/Software-Engineer-Associate/13511",
     slug: "full-stack-developer-at-vercel-2",
-    salary: 120000,
+    salary: 500000-700000,
     approved: true,
     description: `
-**About Vercel:** 
+**About Infor:** 
 
-Vercel is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow. It enables developers to host Jamstack websites with ease.
+Infor is a global leader in business cloud software products for companies in industry specific markets. Infor builds complete industry suites in the cloud and efficiently deploys technology that puts the user experience first, leverages data science, and integrates easily into existing systems. Over 60,000 organizations worldwide rely on Infor to help overcome market disruptions and achieve business-wide digital transformation. 
+For more information visit www.infor.com 
 
-Job Description: We're looking for a talented Full-Stack Developer to join our dynamic team. As a Full-Stack Developer at Vercel, you'll work on a variety of projects, building high-quality, scalable web applications. You'll collaborate with a team of designers, developers, and product managers to push the boundaries of what's possible on the web.
+**Description & Requirements**
 
-**Key Responsibilities:**
+**Essential Duties:**
 
--   Develop and maintain front-end and back-end components of our web applications.
--   Collaborate with cross-functional teams to define, design, and ship new features.
--   Ensure the performance, quality, and responsiveness of applications.
--   Identify and correct bottlenecks and fix bugs.
--   Help maintain code quality, organization, and automatization.
+As a Associate Software Engineer, you’re responsible for learning new technologies and delivering high-quality software. You will work within a multidisciplinary agile development team in close collaboration with other skilled software engineers, QA engineers, architects and business analysts. You will be involved in all aspects of software development and have room to grow professionally
 
-**Qualifications:**
+**Basic Qualifications:**
 
--   Bachelor's degree in Computer Science or a related field, or equivalent experience.
--   Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
--   Experience with React.js and its core principles.
--   Experience with popular React.js workflows (such as Flux or Redux).
--   Familiarity with newer specifications of EcmaScript.
--   Experience with data structure libraries (e.g., Immutable.js).
--   Knowledge of isomorphic React is a plus.
--   Experience with RESTful APIs.
--   Knowledge of modern authorization mechanisms, such as JSON Web Token.
--   Familiarity with modern front-end build pipelines and tools.
--   Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
--   A knack for benchmarking and optimization.
--   Familiarity with code versioning tools (such as Git).
+1.1 Years Hands on Experience engineer in Application Development. Analytical, accurate and result driven. 
+2.Good communication skills (written and oral) in English. 
+3.Proactive problem solver. 
+4.Experience with and enjoys working within an international agile development environment. 
+5.Bachelor or Master Technical degree preferably in Computer Science or other technical education. 
 
-**Benefits:**
+**Skills:**
+•	Extensive J2EE development experience 
+•	Experienced with Java Web Application development and Web Services development (Servlets, REST, Springboot, Hibernate related technologies). 
+•	Considers and treats Unit testing as intrinsically part of his work. 
+•	Experience with Development tooling (e.g. GIT, Maven, Nexus, Gradle, JIRA, subversion);
 
--   Competitive salary and equity.
--   Health, dental, and vision insurance.
--   Unlimited vacation policy.
--   Home office stipend.
--   Professional development allowance.
+**Preferred Qualifications:**
 
-Vercel is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+•	Knowledge of database concepts a plus 
+•	Knowledge of AWS a plus 
+•	Knowledge of Python a plus
 
-Join us at Vercel and be a part of shaping the future of web development!
+**Position Summary:**
+
+Java / Python Associate Software Engineer
 `,
   },
   {
