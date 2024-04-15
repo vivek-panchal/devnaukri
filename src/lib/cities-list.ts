@@ -52132,8 +52132,8 @@ const cities = [
     {
       country: "India",
       geonameid: 1252653,
-      name: "Zunheboto",
-      subcountry: "Nagaland",
+      name: "Gurugram",
+      subcountry: "Haryana",
     },
     {
       country: "India",
@@ -52144,7 +52144,7 @@ const cities = [
     {
       country: "India",
       geonameid: 1252698,
-      name: "Zaidpur",
+      name: "Noida",
       subcountry: "Uttar Pradesh",
     },
     {
@@ -52156,13 +52156,13 @@ const cities = [
     {
       country: "India",
       geonameid: 1252738,
-      name: "Yeola",
+      name: "Mumbai",
       subcountry: "Maharashtra",
     },
     {
       country: "India",
       geonameid: 1252744,
-      name: "Yell\u0101pur",
+      name: "Bangalore",
       subcountry: "Karnataka",
     },
     {

@@ -55,7 +55,7 @@ export default async function Home({
     <main className="m-auto my-10 max-w-5xl space-y-10 px-3 min-h-full">
       <div className="space-y-5 text-center">
       <H1>{getTitle(filterValues)}</H1>
-        <p className="text-muted-foreground">Find your dream job.</p>
+        <p className="text-muted-foreground">Black & White that can fill colours in your life</p>
       </div>
       <section className="flex flex-col gap-4 md:flex-row">
         <JobFilterSidebar defaultValues={filterValues} />
