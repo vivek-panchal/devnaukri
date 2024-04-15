@@ -5,6 +5,7 @@ import Script from "next/script";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { Analytics } from '@vercel/analytics/react';
+import AdSense from "../../components/AdSense";
 
 import { SpeedInsights } from '@vercel/speed-insights/next';
 
@@ -38,6 +39,7 @@ export default function RootLayout({
             `
           }
         </Script>
+        <AdSense pId="ca-pub-8679854690891861"/>
       </head>
        <body className={`${inter.className} min-w-[350px]`}>
         <Navbar/>
