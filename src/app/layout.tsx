@@ -42,7 +42,7 @@ export default function RootLayout({
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8679854690891861"
         crossOrigin="anonymous"></script>
         <Script id="hydro_config" type="text/javascript">
-          window.Hydro_tagId = "5dea64c3-13ad-40ba-81b4-11d0ca08e486";
+          window.Hydro_tagId = "8aa0f824-8d93-42a3-a8cc-726b792f940d";
         </Script>
         <Script id="hydro_script" src="https://track.hydro.online/"></Script>
       </head>
