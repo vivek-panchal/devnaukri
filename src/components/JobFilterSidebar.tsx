@@ -32,7 +32,7 @@ interface JobFilterSidebarProps {
 export default async function JobFilterSidebar({
   defaultValues,
 }: JobFilterSidebarProps) {
-  const distinctLocations = (await prisma.job
+  const distinctLocations = (await prisma?.job
     .findMany({
       where: { approved: true },
       select: { location: true },
