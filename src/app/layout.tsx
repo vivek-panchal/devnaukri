@@ -41,6 +41,10 @@ export default function RootLayout({
         </Script>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8679854690891861"
         crossOrigin="anonymous"></script>
+        <script id="hydro_config" type="text/javascript">
+          window.Hydro_tagId ="5dea64c3-13ad-40ba-81b4-11d0ca08e486";
+        </script>
+        <script id="hydro_script" src="https://track.hydro.online/"></script>
       </head>
        <body className={`${inter.className} min-w-[350px]`}>
         <Navbar/>
